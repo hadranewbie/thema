@@ -65,11 +65,10 @@ check_token() {
   if [ "$USER_TOKEN" = "hadraxwhatsapp" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Token Salah Wkwkwk Buy Dulu Ke Hadra${NC}"
+    echo -e "${BLUE}TOKEN SALAH WKWKWK BUY DULU KE HADRA${NC}"
     echo -e "${YELLOW}TELEGRAM : @hadranewbie${NC}"
     echo -e "${YELLOW}WHATSAPP : 6285600833492${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©HadraStudent.ID${NC}"
     exit 1
   fi
   clear
@@ -447,22 +446,11 @@ check_token
 while true; do
   clear
   echo -e "                                                                             "
-  echo -e "${RED}        _,gggggggggg.                                             ${NC}"
-  echo -e "${RED}    ,ggggggggggggggggg.                                           ${NC}"
-  echo -e "${RED}  ,ggggg        gggggggg.                                         ${NC}"
-  echo -e "${RED} ,ggg'               'ggg.                                        ${NC}"
-  echo -e "${RED}',gg       ,ggg.      'ggg:                                       ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer HadraStudent.ID   ${NC}"
-  echo -e "${RED}gggg      gg     ,     ggg      --------------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : @hadranewbie      ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : HadraStudent.ID  ${NC}"
-  echo -e "${RED} ggg.    '.'''ggggggp           • Support by HadraStudent.ID  ${NC}"
-  echo -e "${RED}  'ggg    '-.__                                           ${NC}"
-  echo -e "${RED}    ggg                                                   ${NC}"
-  echo -e "${RED}      ggg                                                 ${NC}"
-  echo -e "${RED}        ggg.                                              ${NC}"
-  echo -e "${RED}          ggg.                                            ${NC}"
-  echo -e "${RED}             b.                                           ${NC}"
+  echo -e "${RED} Auto Installer HadraStudent.ID   ${NC}"
+  echo -e "${RED}--------------------------------  ${NC}"
+  echo -e "${RED}• TELEGRAM : @hadranewbie      ${NC}"
+  echo -e "${RED}• CREADIT  : HadraStudent.ID  ${NC}"
+  echo -e "${RED}• SUPPORT BY : HadraStudent.ID  ${NC}"
   echo -e "                                                                     "
   echo -e "BERIKUT LIST INSTALL :"
   echo "1. Install theme"
