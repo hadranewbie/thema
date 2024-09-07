@@ -56,7 +56,7 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY FADHOST OFFC             [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY HADRA STUDENT             [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
@@ -65,7 +65,7 @@ check_token() {
   if [ "$USER_TOKEN" = "hadraxwhatsapp" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke HadraStudent.ID${NC}"
+    echo -e "${GREEN}Token Salah Wkwkwk Buy Dulu Ke Hadra${NC}"
     echo -e "${YELLOW}TELEGRAM : @hadranewbie${NC}"
     echo -e "${YELLOW}WHATSAPP : 6285600833492${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
