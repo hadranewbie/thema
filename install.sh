@@ -446,8 +446,7 @@ check_token
 while true; do
   clear
   echo -e "                                            "
-  echo -e "${BLUE} Auto Installer HadraStudent.ID   ${NC}"
-  echo -e "${BLUE}--------------------------------  ${NC}"
+  echo -e "${BLUE}AUTO INSTALLER HADRASTUDENT.ID   ${NC}"
   echo -e "${BLUE}• TELEGRAM : @hadranewbie      ${NC}"
   echo -e "${BLUE}• CREADIT  : HadraStudent.ID  ${NC}"
   echo -e "${BLUE}• SUPPORT BY : HadraStudent.ID  ${NC}"
