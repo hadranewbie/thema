@@ -446,11 +446,11 @@ check_token
 while true; do
   clear
   echo -e "                                            "
-  echo -e "${RED} Auto Installer HadraStudent.ID   ${NC}"
-  echo -e "${RED}--------------------------------  ${NC}"
-  echo -e "${RED}• TELEGRAM : @hadranewbie      ${NC}"
-  echo -e "${RED}• CREADIT  : HadraStudent.ID  ${NC}"
-  echo -e "${RED}• SUPPORT BY : HadraStudent.ID  ${NC}"
+  echo -e "${GOLD} Auto Installer HadraStudent.ID   ${NC}"
+  echo -e "${GOLD}--------------------------------  ${NC}"
+  echo -e "${GOLD}• TELEGRAM : @hadranewbie      ${NC}"
+  echo -e "${GOLD}• CREADIT  : HadraStudent.ID  ${NC}"
+  echo -e "${GOLD}• SUPPORT BY : HadraStudent.ID  ${NC}"
   echo -e "                                          "
   echo -e "BERIKUT LIST INSTALL :"
   echo "1. Install theme"
